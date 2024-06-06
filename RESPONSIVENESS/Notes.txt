@@ -1,0 +1,12 @@
+1. An absolute units of measurements i ssomething that is fixed in length.
+        It doesn't change based on screen time.
+2.Never use pixels.
+
+3. A relative units of measurements is not fixed in length but rather it is determined relative to another units of measurements.
+4. 1vw- 1% of the width od userscreen/viewport
+5. 1vh- 1% of the height of userscreen/viewport
+6. 1%- 1% relative to parent element.
+7. Never use pixels - use em!
+8. em is relative to current font size of the element
+9. 2.5em is 2.5x to current font size.
+10. 3em is 3x to current font size.
